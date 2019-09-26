@@ -1,7 +1,8 @@
        
     
-    var name = "василий";
-    var admin;
+   
+   var admin, name;
+   var name = "василий";
     admin = name;
     alert(admin);
 
