@@ -1,12 +1,13 @@
-       
-    
-   
-   var admin, name;
-   var name = "василий";
-    admin = name;
-    alert(admin);
+  
+ var years = prompt ('сколько вам лет',200)
+ 
+ if (years>200) {
+ alert ('вам'+years+"лет" +"пиздёшь");
 
-    111
+ }
+  else if (years<200) { alert ("вот это да вам меньше двухсот");}
+
+  if  (years==200)  { alert  ("200 то что надо"); }
 
 
 
